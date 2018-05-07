@@ -5,9 +5,17 @@
     * Copy the https link
     * Start a GIT Bash shell in the parent directory of where you want your Visual Studio project to go. 
     *  type in `$ git clone https://github.com/NBCC-GEX-2017/starting_git.git`
-* Start a C++ project in the same folder
-* Initalize GIT-FLOW
+* Open starter VS solution
+* Initialize GIT-FLOW
 * start a new feature, make a simple "hello world" program
 * complete the feature 
-* push your changes 
-* upload the commit id to dropbox.
+* push your changes (make sure you push the **development** branch not the master branch) 
+* download and install [Typora](https://www.typora.io/#windows) 
+    * Or your favorite Markdown editor/viewer
+* start a new feature 
+* Add your name to this readme.md file
+* complete the feature and push your commit. 
+* push your changes  (make sure you push the **development** branch not the master branch) 
+* merge the changes on your development branch into your **master** branch
+* push your **master** branch
+
